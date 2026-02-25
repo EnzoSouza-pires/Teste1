@@ -3,3 +3,4 @@ manga
 maça
 laranja 
 pera
+pitaia
