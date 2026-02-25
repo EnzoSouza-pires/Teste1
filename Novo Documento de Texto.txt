@@ -1,3 +1,4 @@
 banana
 manga
+maça
 laranja 
