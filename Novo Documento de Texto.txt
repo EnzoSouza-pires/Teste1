@@ -1,5 +1,7 @@
 banana
 manga
 maça
-laranja 
+laranja
 lima
+pera
+
